@@ -1,0 +1,4 @@
+﻿  Client.cpp
+C:\Users\mikel\source\repos\Lab3(TIMP)\Client\Client.cpp(149,20): warning C4101: 'cbToWrite': unreferenced local variable
+C:\Users\mikel\source\repos\Lab3(TIMP)\Client\Client.cpp(149,31): warning C4101: 'cbWritten': unreferenced local variable
+  Client.vcxproj -> C:\Users\mikel\source\repos\Lab3(TIMP)\Debug\Client.exe

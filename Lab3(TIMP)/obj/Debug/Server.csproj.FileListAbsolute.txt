@@ -1,0 +1,14 @@
+C:\Users\mikel\source\repos\Lab3(TIMP)\Lab3(TIMP)\bin\Debug\Lab3(TIMP).exe.config
+C:\Users\mikel\source\repos\Lab3(TIMP)\Lab3(TIMP)\bin\Debug\Lab3(TIMP).exe
+C:\Users\mikel\source\repos\Lab3(TIMP)\Lab3(TIMP)\bin\Debug\Lab3(TIMP).pdb
+C:\Users\mikel\source\repos\Lab3(TIMP)\Lab3(TIMP)\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\mikel\source\repos\Lab3(TIMP)\Lab3(TIMP)\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\mikel\source\repos\Lab3(TIMP)\Lab3(TIMP)\obj\Debug\Lab3(TIMP).exe
+C:\Users\mikel\source\repos\Lab3(TIMP)\Lab3(TIMP)\obj\Debug\Lab3(TIMP).pdb
+C:\Users\agole\Desktop\тимп лабы 1-7\Lab3(TIMP)\Lab3(TIMP)\bin\Debug\Lab3(TIMP).exe.config
+C:\Users\agole\Desktop\тимп лабы 1-7\Lab3(TIMP)\Lab3(TIMP)\bin\Debug\Lab3(TIMP).exe
+C:\Users\agole\Desktop\тимп лабы 1-7\Lab3(TIMP)\Lab3(TIMP)\bin\Debug\Lab3(TIMP).pdb
+C:\Users\agole\Desktop\тимп лабы 1-7\Lab3(TIMP)\Lab3(TIMP)\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\agole\Desktop\тимп лабы 1-7\Lab3(TIMP)\Lab3(TIMP)\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\agole\Desktop\тимп лабы 1-7\Lab3(TIMP)\Lab3(TIMP)\obj\Debug\Lab3(TIMP).exe
+C:\Users\agole\Desktop\тимп лабы 1-7\Lab3(TIMP)\Lab3(TIMP)\obj\Debug\Lab3(TIMP).pdb

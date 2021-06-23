@@ -1,0 +1,7 @@
+C:\Users\mikel\source\repos\Lab3(TIMP)\Lab3(TIMP)\bin\Release\Lab3(TIMP).exe.config
+C:\Users\mikel\source\repos\Lab3(TIMP)\Lab3(TIMP)\bin\Release\Lab3(TIMP).exe
+C:\Users\mikel\source\repos\Lab3(TIMP)\Lab3(TIMP)\bin\Release\Lab3(TIMP).pdb
+C:\Users\mikel\source\repos\Lab3(TIMP)\Lab3(TIMP)\obj\Release\Server.csprojAssemblyReference.cache
+C:\Users\mikel\source\repos\Lab3(TIMP)\Lab3(TIMP)\obj\Release\Server.csproj.CoreCompileInputs.cache
+C:\Users\mikel\source\repos\Lab3(TIMP)\Lab3(TIMP)\obj\Release\Lab3(TIMP).exe
+C:\Users\mikel\source\repos\Lab3(TIMP)\Lab3(TIMP)\obj\Release\Lab3(TIMP).pdb
